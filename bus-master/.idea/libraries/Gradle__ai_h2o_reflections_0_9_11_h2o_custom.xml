@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ai.h2o:reflections:0.9.11-h2o-custom">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.h2o/reflections/0.9.11-h2o-custom/d7572e98069f5c7296e32bf4c72c8a51cd22ae39/reflections-0.9.11-h2o-custom.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.h2o/reflections/0.9.11-h2o-custom/7c9f07f1eae515d7963e9578126062944178e3db/reflections-0.9.11-h2o-custom-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

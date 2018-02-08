@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.geotools:gt-api:14.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-api/14.2/7690a0d46ac4254f3312a77e4b0da55d40acc3b8/gt-api-14.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-api/14.2/92f107011a8266cfb7e81664f8db95e12033a08e/gt-api-14.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

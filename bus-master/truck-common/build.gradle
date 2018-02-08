@@ -1,0 +1,55 @@
+sourceSets {
+    main {
+        scala {
+            srcDirs = ['src/main/scala', 'src/main/java']
+        }
+        java {
+            srcDirs = []
+        }
+    }
+
+    test {
+        scala {
+            srcDirs = ['src/test/scala', 'src/test/java']
+        }
+
+        java {
+            srcDirs = []
+        }
+    }
+}
+
+//生成项目目录
+task "createDirs" << {
+    sourceSets*.scala.srcDirs*.each { it.mkdirs() }
+    sourceSets*.java.srcDirs*.each { it.mkdirs() }
+    sourceSets*.resources.srcDirs*.each { it.mkdirs() }
+}
+
+repositories {
+    maven {
+        url 'http://download.osgeo.org/webdav/geotools/'
+    }
+    maven {
+        url 'http://download.java.net/maven/2'
+    }
+    maven {
+        url 'http://repo.opengeo.org'
+    }
+}
+
+//子项目的依赖
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+    compile group: 'org.jgrapht', name: 'jgrapht-core', version: '1.0.1'
+    compile 'org.apache.hbase:hbase-client:0.96.1.1-hadoop2'
+    compile 'org.postgresql:postgresql:9.4.1207'
+    compile group: 'com.vividsolutions', name: 'jts', version: '1.13'
+    // https://mvnrepository.com/artifact/org.geotools/gt-main
+    compile group: 'org.geotools', name: 'gt-main', version: '14.2'
+    // https://mvnrepository.com/artifact/org.geotools/gt-shapefile
+    compile group: 'org.geotools', name: 'gt-shapefile', version: '14.2'
+
+    compile project(":metro-common")
+    compile project(":bus-common")
+}

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ai.h2o:deepwater-backend-api:1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.h2o/deepwater-backend-api/1.0.2/e43877f8cfac0aa1e701657fcadb6f9ddddb45e9/deepwater-backend-api-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.h2o/deepwater-backend-api/1.0.2/6cab40673d9e353aea5471b99570c333b00298/deepwater-backend-api-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

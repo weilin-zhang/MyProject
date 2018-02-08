@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ai.h2o:h2o-persist-s3:3.10.4.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.h2o/h2o-persist-s3/3.10.4.8/f4bc39ed4860687c81970489bf0758b51325a3bd/h2o-persist-s3-3.10.4.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.h2o/h2o-persist-s3/3.10.4.8/29a2da2753d7f47958b402e07807ae3ec363eebb/h2o-persist-s3-3.10.4.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

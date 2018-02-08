@@ -1,0 +1,43 @@
+<component name="ArtifactManager">
+  <artifact name="Dot2Zone2018:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dot2Zone2018_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Dot2Zone2018.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/out/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="Dot2Zone2018" />
+      </element>
+      <element id="file-copy" path="E:/jars/jts-1.13.jar" />
+      <element id="file-copy" path="E:/jars/pig-0.17.0.jar" />
+      <element id="file-copy" path="E:/jars/gt-api-14.2.jar" />
+      <element id="file-copy" path="E:/jars/gt-data-14.2.jar" />
+      <element id="file-copy" path="E:/jars/gt-main-14.2.jar" />
+      <element id="file-copy" path="E:/jars/metro-common.jar" />
+      <element id="file-copy" path="E:/jars/gt-opengis-14.2.jar" />
+      <element id="file-copy" path="E:/jars/pigsmoke-0.16.0.jar" />
+      <element id="file-copy" path="E:/jars/gt-metadata-14.2.jar" />
+      <element id="file-copy" path="E:/jars/gt-shapefile-14.2.jar" />
+      <element id="file-copy" path="E:/jars/hadoop-auth-2.2.0.jar" />
+      <element id="file-copy" path="E:/jars/hadoop-hdfs-2.2.0.jar" />
+      <element id="file-copy" path="E:/jars/gt-referencing-14.2.jar" />
+      <element id="file-copy" path="E:/jars/hadoop-client-2.2.0.jar" />
+      <element id="file-copy" path="E:/jars/hadoop-common-2.2.0.jar" />
+      <element id="file-copy" path="E:/jars/hadoop-yarn-api-2.2.0.jar" />
+      <element id="file-copy" path="E:/jars/hadoop-annotations-2.2.0.jar" />
+      <element id="file-copy" path="E:/jars/hadoop-yarn-client-2.2.0.jar" />
+      <element id="file-copy" path="E:/jars/hadoop-yarn-common-2.2.0.jar" />
+      <element id="file-copy" path="E:/jars/scala-library-2.10.0-RC3.jar" />
+      <element id="file-copy" path="E:/jars/hadoop-yarn-server-common-2.2.0.jar" />
+      <element id="file-copy" path="E:/jars/scala-library-2.10.0-RC3-javadoc.jar" />
+      <element id="file-copy" path="E:/jars/scala-library-2.10.0-RC3-sources.jar" />
+      <element id="file-copy" path="E:/jars/hadoop-mapreduce-client-app-2.2.0.jar" />
+      <element id="file-copy" path="E:/jars/hadoop-mapreduce-client-core-2.2.0.jar" />
+      <element id="file-copy" path="E:/jars/hadoop-yarn-server-web-proxy-2.2.0.jar" />
+      <element id="file-copy" path="E:/jars/hadoop-mapreduce-client-common-2.2.0.jar" />
+      <element id="file-copy" path="E:/jars/hadoop-yarn-server-nodemanager-2.2.0.jar" />
+      <element id="file-copy" path="E:/jars/hadoop-mapreduce-client-shuffle-2.2.0.jar" />
+      <element id="file-copy" path="E:/jars/hadoop-mapreduce-client-jobclient-2.2.0.jar" />
+    </root>
+  </artifact>
+</component>

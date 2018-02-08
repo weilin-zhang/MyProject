@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.intel.analytics.bigdl.native:mkl-java:0.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.intel.analytics.bigdl.native/mkl-java/0.2.0/2fa28c7457163e62a176335e4a8352d832a4945a/mkl-java-0.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.intel.analytics.bigdl.native/mkl-java/0.2.0/f57425f74d14e8a34f70911d8ac0f36447e014e8/mkl-java-0.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

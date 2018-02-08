@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.intel.analytics.bigdl:bigdl-SPARK_2.0:0.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.intel.analytics.bigdl/bigdl-SPARK_2.0/0.2.0/9f6619c6ebf3884407207e068ce0125257e27218/bigdl-SPARK_2.0-0.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.intel.analytics.bigdl/bigdl-SPARK_2.0/0.2.0/5fe14cad5c200b1c9cca58e1638a8d5ba6f80245/bigdl-SPARK_2.0-0.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

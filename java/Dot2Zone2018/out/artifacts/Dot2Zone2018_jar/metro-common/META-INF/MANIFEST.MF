@@ -1,0 +1,97 @@
+Manifest-Version: 1.0
+Class-Path: activation-1.1.jar univocity-parsers-2.1.1.jar commons-poo
+ l-1.5.4.jar json-20090211.jar protobuf-java-2.5.0.jar commons-math3-3
+ .4.1.jar jackson-jaxrs-1.8.3.jar spire-macros_2.11-0.7.4.jar jersey-c
+ lient-1.9.jar jts-1.13.jar javax.annotation-api-1.2.jar spark-yarn_2.
+ 11-2.0.1.jar curator-client-2.4.0.jar jsp-2.1-6.1.14.jar spark-tags_2
+ .11-2.0.1.jar stream-2.7.0.jar pmml-model-1.2.15.jar flume-ng-auth-1.
+ 6.0.jar chill_2.11-0.8.0.jar hadoop-mapreduce-client-app-2.2.0.jar sn
+ appy-0.2.jar ant-1.6.5.jar gt-opengis-14.2.jar commons-configuration-
+ 1.6.jar janino-2.7.8.jar jline-2.11.jar hadoop-mapreduce-client-commo
+ n-2.2.0.jar hbase-client-0.96.1.1-hadoop2.jar flume-ng-sdk-1.6.0.jar 
+ jtransforms-2.4.0.jar spark-streaming-flume-sink_2.11-2.0.1.jar jetty
+ -util-6.1.26.jar commons-beanutils-core-1.8.0.jar oro-2.0.8.jar netty
+ -all-4.0.29.Final.jar parquet-hadoop-bundle-1.6.0.jar commons-lang-2.
+ 6.jar commons-beanutils-1.7.0.jar hadoop-yarn-server-nodemanager-2.2.
+ 0.jar calcite-avatica-1.2.0-incubating.jar hk2-utils-2.4.0-b34.jar xb
+ ean-asm5-shaded-4.4.jar jackson-module-paranamer-2.6.5.jar spark-netw
+ ork-common_2.11-2.0.1.jar automaton-1.11-8.jar curator-recipes-2.4.0.
+ jar javolution-5.5.1.jar cglib-2.2.1-v20090111.jar scala-xml_2.11-1.0
+ .4.jar postgresql-9.4.1207.jar hk2-locator-2.4.0-b34.jar hadoop-yarn-
+ client-2.2.0.jar hadoop-mapreduce-client-jobclient-2.2.0.jar stringte
+ mplate-3.2.1.jar jackson-xc-1.8.3.jar commons-collections-3.2.1.jar s
+ park-mllib_2.11-2.0.1.jar JavaEWAH-0.3.2.jar commons-io-2.4.jar jul-t
+ o-slf4j-1.7.16.jar spark-hive_2.11-2.0.1.jar json4s-core_2.11-3.2.11.
+ jar arpack_combined_all-0.1.jar hk2-api-2.4.0-b34.jar parquet-jackson
+ -1.7.0.jar parquet-format-2.3.0-incubating.jar flume-ng-configuration
+ -1.6.0.jar spark-launcher_2.11-2.0.1.jar ivy-2.4.0.jar datanucleus-ap
+ i-jdo-3.2.6.jar httpclient-4.5.2.jar httpcore-4.4.4.jar hadoop-yarn-c
+ ommon-2.2.0.jar jersey-container-servlet-2.22.2.jar spark-network-shu
+ ffle_2.11-2.0.1.jar aopalliance-repackaged-2.4.0-b34.jar jersey-guice
+ -1.9.jar hadoop-mapreduce-client-shuffle-2.2.0.jar velocity-1.7.jar a
+ ntlr4-runtime-4.5.3.jar antlr-2.7.7.jar breeze_2.11-0.11.2.jar jackso
+ n-module-scala_2.11-2.6.5.jar avro-ipc-1.7.7-tests.jar json4s-jackson
+ _2.11-3.2.11.jar hive-metastore-1.2.1.spark2.jar jersey-json-1.9.jar 
+ spark-catalyst_2.11-2.0.1.jar management-api-3.0.0-b012.jar parquet-e
+ ncoding-1.7.0.jar bonecp-0.8.0.RELEASE.jar jersey-core-1.9.jar jackso
+ n-annotations-2.6.5.jar scalatest_2.11-2.2.6.jar jersey-test-framewor
+ k-grizzly2-1.9.jar commons-compiler-2.7.8.jar gt-referencing-14.2.jar
+  compress-lzf-1.0.3.jar hadoop-auth-2.2.0.jar jets3t-0.9.0.jar gt-met
+ adata-14.2.jar spark-streaming-flume_2.11-2.0.1.jar spark-unsafe_2.11
+ -2.0.1.jar spark-sketch_2.11-2.0.1.jar jersey-server-1.9.jar hadoop-c
+ ommon-2.2.0.jar jettison-1.1.jar scala-library-2.11.8.jar gt-api-14.2
+ .jar slf4j-api-1.7.16.jar jackson-mapper-asl-1.9.13.jar javax.inject-
+ 2.4.0-b34.jar jersey-media-jaxb-2.22.2.jar derby-10.10.2.0.jar metric
+ s-graphite-3.1.2.jar scala-compiler-2.11.8.jar groovy-all-2.4.5.jar l
+ og4j-1.2.17.jar curator-framework-2.4.0.jar kafka_2.11-0.8.2.1.jar jd
+ om-1.1.3.jar commons-cli-1.2.jar commons-lang3-3.3.2.jar hadoop-clien
+ t-2.2.0.jar grizzly-http-2.1.2.jar pyrolite-4.9.jar scalap-2.11.0.jar
+  commons-compress-1.4.1.jar commons-logging-1.2.jar jsp-api-2.1-6.1.1
+ 4.jar gmbal-api-only-3.0.0-b023.jar jackson-core-asl-1.9.13.jar java-
+ xmlbuilder-0.4.jar jersey-client-2.22.2.jar datanucleus-core-3.2.10.j
+ ar spark-core_2.11-2.0.1.jar hive-exec-1.2.1.spark2.jar javassist-3.1
+ 8.1-GA.jar spark-graphx_2.11-2.0.1.jar ST4-4.0.4.jar aopalliance-1.0.
+ jar metrics-core-3.1.2.jar kafka-clients-0.8.2.1.jar jta-1.1.jar hado
+ op-yarn-server-web-proxy-2.2.0.jar grizzly-rcm-2.1.2.jar commons-math
+ -2.1.jar servlet-api-2.5.jar javax.ws.rs-api-2.0.1.jar findbugs-annot
+ ations-1.3.9-1.jar pig-0.17.0.jar stax-api-1.0.1.jar avro-ipc-1.7.7.j
+ ar gt-main-14.2.jar javax.servlet-api-3.1.0.jar grizzly-http-servlet-
+ 2.1.2.jar servlet-api-2.5-6.1.14.jar servlet-api-2.5-20110124.jar jer
+ sey-common-2.22.2.jar guice-3.0.jar mesos-0.21.1-shaded-protobuf.jar 
+ commons-httpclient-3.1.jar scala-parser-combinators_2.11-1.0.4.jar sl
+ f4j-log4j12-1.7.16.jar zkclient-0.3.jar spark-streaming_2.11-2.0.1.ja
+ r lz4-1.3.0.jar metrics-jvm-3.1.2.jar gt-shapefile-14.2.jar jgridshif
+ t-1.0.jar gt-data-14.2.jar avro-1.7.7.jar RoaringBitmap-0.5.11.jar co
+ mmons-dbcp-1.4.jar metrics-json-3.1.2.jar asm-3.1.jar parquet-generat
+ or-1.7.0.jar junit-4.11.jar apache-log4j-extras-1.2.17.jar kryo-shade
+ d-3.0.3.jar unused-1.0.0.jar netty-3.8.0.Final.jar core-0.26.jar avro
+ -mapred-1.7.7-hadoop2.jar jsp-api-2.1.jar grizzly-http-server-2.1.2.j
+ ar pmml-schema-1.2.15.jar jdo-api-3.0.1.jar jodd-core-3.5.2.jar py4j-
+ 0.10.3.jar jackson-core-2.6.5.jar json4s-ast_2.11-3.2.11.jar objenesi
+ s-2.1.jar scala-reflect-2.11.8.jar jersey-server-2.22.2.jar chill-jav
+ a-0.8.0.jar hbase-common-0.96.1.1-hadoop2.jar parquet-column-1.7.0.ja
+ r jackson-databind-2.6.5.jar libfb303-0.9.2.jar parquet-common-1.7.0.
+ jar jersey-guava-2.22.2.jar gson-2.2.2.jar xmlenc-0.52.jar jersey-con
+ tainer-servlet-core-2.22.2.jar flume-ng-core-1.6.0.jar osgi-resource-
+ locator-1.0.1.jar opencsv-2.3.jar commons-codec-1.10.jar GeographicLi
+ b-Java-1.44.jar htrace-core-2.01.jar breeze-macros_2.11-0.11.2.jar ja
+ xb-impl-2.2.3-1.jar jgrapht-core-1.0.1.jar calcite-core-1.2.0-incubat
+ ing.jar jersey-grizzly2-1.9.jar core-3.1.1.jar spark-streaming-kafka-
+ 0-8_2.11-2.0.1.jar hsqldb-1.8.0.10.jar jsch-0.1.42.jar grizzly-framew
+ ork-2.1.2.jar jetty-6.1.26.jar zookeeper-3.4.5.jar guice-servlet-3.0.
+ jar mina-core-2.0.4.jar spire_2.11-0.7.4.jar joda-time-2.9.3.jar spar
+ k-mllib-local_2.11-2.0.1.jar core-1.1.2.jar parquet-hadoop-1.7.0.jar 
+ hbase-protocol-0.96.1.1-hadoop2.jar hadoop-mapreduce-client-core-2.2.
+ 0.jar hadoop-yarn-api-2.2.0.jar commons-net-3.1.jar hadoop-yarn-serve
+ r-common-2.2.0.jar javax.servlet-3.1.jar xz-1.0.jar validation-api-1.
+ 1.0.Final.jar antlr-runtime-3.4.jar eigenbase-properties-1.1.5.jar mi
+ nlog-1.3.0.jar leveldbjni-all-1.8.jar libthrift-0.9.2.jar jcl-over-sl
+ f4j-1.7.16.jar hadoop-hdfs-2.2.0.jar jasper-runtime-5.5.23.jar hadoop
+ -annotations-2.2.0.jar jaxb-api-2.2.2.jar commons-digester-1.8.jar gu
+ ava-14.0.1.jar calcite-linq4j-1.2.0-incubating.jar jersey-test-framew
+ ork-core-1.9.jar snappy-java-1.1.2.6.jar javax.inject-1.jar datanucle
+ us-rdbms-3.2.9.jar jsr-275-1.0-beta-2.jar jsr305-1.3.9.jar hamcrest-c
+ ore-1.3.jar metrics-core-2.2.0.jar paranamer-2.6.jar jasper-compiler-
+ 5.5.23.jar commons-el-1.0.jar spark-sql_2.11-2.0.1.jar
+Main-Class: 
+

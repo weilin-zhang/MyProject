@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ai.h2o:h2o-core:3.10.4.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.h2o/h2o-core/3.10.4.8/3190ee264bc9b3c81cf32622fcfa207dd54f7c1a/h2o-core-3.10.4.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.h2o/h2o-core/3.10.4.8/2d8fea698d1f2fda82411819f7eb2f30a4485e4f/h2o-core-3.10.4.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

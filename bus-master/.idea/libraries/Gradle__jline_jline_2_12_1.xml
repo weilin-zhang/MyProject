@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: jline:jline:2.12.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jline/jline/2.12.1/6995a145068fdc69d291e597531a414311100e72/jline-2.12.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jline/jline/2.12.1/ec2cdac8465752d8dd1631a30a39b2d7d53b056f/jline-2.12.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

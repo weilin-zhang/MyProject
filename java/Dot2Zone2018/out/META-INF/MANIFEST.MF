@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Class-Path: jts-1.13.jar pig-0.17.0.jar gt-api-14.2.jar gt-data-14.2.j
+ ar gt-main-14.2.jar metro-common.jar gt-opengis-14.2.jar pigsmoke-0.1
+ 6.0.jar gt-metadata-14.2.jar gt-shapefile-14.2.jar hadoop-auth-2.2.0.
+ jar hadoop-hdfs-2.2.0.jar gt-referencing-14.2.jar hadoop-client-2.2.0
+ .jar hadoop-common-2.2.0.jar hadoop-yarn-api-2.2.0.jar hadoop-annotat
+ ions-2.2.0.jar hadoop-yarn-client-2.2.0.jar hadoop-yarn-common-2.2.0.
+ jar scala-library-2.10.0-RC3.jar hadoop-yarn-server-common-2.2.0.jar 
+ scala-library-2.10.0-RC3-javadoc.jar scala-library-2.10.0-RC3-sources
+ .jar hadoop-mapreduce-client-app-2.2.0.jar hadoop-mapreduce-client-co
+ re-2.2.0.jar hadoop-yarn-server-web-proxy-2.2.0.jar hadoop-mapreduce-
+ client-common-2.2.0.jar hadoop-yarn-server-nodemanager-2.2.0.jar hado
+ op-mapreduce-client-shuffle-2.2.0.jar hadoop-mapreduce-client-jobclie
+ nt-2.2.0.jar
+Main-Class: 
+

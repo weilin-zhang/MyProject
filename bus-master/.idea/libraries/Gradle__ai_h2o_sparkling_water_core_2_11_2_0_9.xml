@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ai.h2o:sparkling-water-core_2.11:2.0.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.h2o/sparkling-water-core_2.11/2.0.9/70c8a09fa263066dbd101bfba4d2cd53d1ea0d36/sparkling-water-core_2.11-2.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.h2o/sparkling-water-core_2.11/2.0.9/f4489bfa3bf768e0d500431cf3c1a2b6bef71da0/sparkling-water-core_2.11-2.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

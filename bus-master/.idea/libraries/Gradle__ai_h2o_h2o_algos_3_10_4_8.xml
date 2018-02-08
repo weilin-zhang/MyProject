@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ai.h2o:h2o-algos:3.10.4.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.h2o/h2o-algos/3.10.4.8/4e6ca2fc432bac6937f900f858e6e008f112a456/h2o-algos-3.10.4.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.h2o/h2o-algos/3.10.4.8/dcd04e01d43451bb368fb5190b184bfac7b1aff9/h2o-algos-3.10.4.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

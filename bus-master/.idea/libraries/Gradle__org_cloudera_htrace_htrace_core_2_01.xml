@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.cloudera.htrace:htrace-core:2.01">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.cloudera.htrace/htrace-core/2.01/f73916df8f3fb124eaa352a2b6e98f683b0db545/htrace-core-2.01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.cloudera.htrace/htrace-core/2.01/ffe0dafef390f2c2c47a8a782b478b5660279793/htrace-core-2.01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

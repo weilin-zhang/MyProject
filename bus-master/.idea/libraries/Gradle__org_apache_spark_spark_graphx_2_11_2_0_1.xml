@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.spark:spark-graphx_2.11:2.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-graphx_2.11/2.0.1/c9885845ccb7f49cf7a22a73967e16d5e584f7d0/spark-graphx_2.11-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-graphx_2.11/2.0.1/c213ddbe26aa028df40b7101bcb766681d37e43/spark-graphx_2.11-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

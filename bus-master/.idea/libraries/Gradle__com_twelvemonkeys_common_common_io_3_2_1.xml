@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twelvemonkeys.common:common-io:3.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.common/common-io/3.2.1/e412a88dafea06eb7f4b3e4cfed8b3048d4068a2/common-io-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.common/common-io/3.2.1/2d1055b7ad505d88e36a19f6e32ab0ef3ab171e7/common-io-3.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
